@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: python 3.7.13 Azure
 
 on: [push]
 
